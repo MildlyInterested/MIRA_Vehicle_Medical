@@ -3,6 +3,7 @@
     <Package name="Interaction">
         <Key ID="STR_MIRA_AVM_Interaction_Medical">
             <English>Medical</English>
+            <German>Medical</German>
         </Key>
         <Key ID="STR_MIRA_AVM_Interaction_Stable">
             <English>Stable</English>
